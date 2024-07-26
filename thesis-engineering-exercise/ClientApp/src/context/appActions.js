@@ -1,0 +1,6 @@
+const ACTIONS = {
+    UPDATE_STATE: 'UPDATE_STATE',
+    RESET_STATE: 'RESET_STATE'
+}
+
+export default ACTIONS;
